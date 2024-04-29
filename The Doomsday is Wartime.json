@@ -10,7 +10,7 @@
       "volume": "",
       "last_updated": "1707843290",
       "groups": {
-        "": "/proxy/api/imgur/chapter/gBkp2sh"
+        "I Am Nero Wolfe": "/proxy/api/imgur/chapter/gBkp2sh"
       }
     },
     "3": {
@@ -18,7 +18,7 @@
       "volume": "",
       "last_updated": "1708647952",
       "groups": {
-        "": "/proxy/api/imgur/chapter/IM1pWl7"
+        "I Am Nero Wolfe": "/proxy/api/imgur/chapter/IM1pWl7"
       }
     },
     "4": {
@@ -26,7 +26,15 @@
       "volume": "",
       "last_updated": "1710201866",
       "groups": {
-        "": "/proxy/api/imgur/chapter/n5wPO1Z"
+        "I Am Nero Wolfe": "/proxy/api/imgur/chapter/n5wPO1Z"
+      }
+    },
+    "5": {
+      "title": "Chapter 5 - Foggy Rain dyes the Brain Black",
+      "volume": "",
+      "last_updated": "1714349890",
+      "groups": {
+        "I Am Nero Wolfe": "/proxy/api/imgur/chapter/eFKhmut"
       }
     }
   }
