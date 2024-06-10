@@ -50,9 +50,7 @@
       "volume": "",
       "last_updated": "1717983415",
       "groups": {
-        "I Am Nero Wolfe": [
-          "https://www.imgur.com/a/doomsday-is-wartime-ch-7-meal-time-XDxDMlR"
-        ]
+        "I Am Nero Wolfe": ".proxy/api/imgur.com/a/doomsday-is-wartime-ch-7-meal-time-XDxDMlR"
       }
     }
   }
