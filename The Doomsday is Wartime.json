@@ -62,19 +62,11 @@
       }
     },
     "9": {
-      "title": "9 pt 1",
+      "title": "9",
       "volume": "",
-      "last_updated": "1725411292",
+      "last_updated": "1725463908",
       "groups": {
-        "I Am Nero Wolfe": "/proxy/api/imgur/chapter/G9kEMaO"
-      }
-    },
-    "10": {
-      "title": "9 pt 2",
-      "volume": "",
-      "last_updated": "1725411364",
-      "groups": {
-        "I Am Nero Wolfe": "/proxy/api/imgur/chapter/Y0VNng4"
+        "I Am Nero Wolfe": "https://imgur.com/jikL1jL"
       }
     }
   }
