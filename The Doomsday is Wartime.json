@@ -62,11 +62,19 @@
       }
     },
     "9": {
-      "title": "Chapter 9 - The Greatest Common Denominator",
+      "title": "9 pt 1",
       "volume": "",
-      "last_updated": "1725404169",
+      "last_updated": "1725411292",
       "groups": {
-        "I Am Nero Wolfe": "/proxy/api/imgur/chapter/oMXkr6t"
+        "I Am Nero Wolfe": "/proxy/api/imgur/chapter/G9kEMaO"
+      }
+    },
+    "10": {
+      "title": "9 pt 2",
+      "volume": "",
+      "last_updated": "1725411364",
+      "groups": {
+        "I Am Nero Wolfe": "/proxy/api/imgur/chapter/Y0VNng4"
       }
     }
   }
