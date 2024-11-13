@@ -1,0 +1,25 @@
+{
+  "title": "raws",
+  "description": "",
+  "artist": "",
+  "author": "",
+  "cover": "",
+  "chapters": {
+    "11": {
+      "title": "11",
+      "volume": "",
+      "last_updated": "1731519526",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/2kd5UaS"
+      }
+    },
+    "12": {
+      "title": "12",
+      "volume": "",
+      "last_updated": "1731519536",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/fmKXWsR"
+      }
+    }
+  }
+}
