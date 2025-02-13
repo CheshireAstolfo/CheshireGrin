@@ -110,11 +110,19 @@
       }
     },
     "15": {
-      "title": "Ch 14 - Raise The Curtain",
+      "title": "Chapter 14 - Raise The Curtain",
       "volume": "",
       "last_updated": "1738187983",
       "groups": {
         "I Am Nero Wolfe": "/proxy/api/imgur/chapter/dHmaZmD"
+      }
+    },
+    "16": {
+      "title": "Chapter 15 - Transition",
+      "volume": "",
+      "last_updated": "1739419099",
+      "groups": {
+        "I Am Nero Wolfe": "/proxy/api/imgur/chapter/3paYhZW"
       }
     }
   }
