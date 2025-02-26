@@ -1,0 +1,33 @@
+{
+  "title": "doomsday clean raws",
+  "description": "",
+  "artist": "",
+  "author": "",
+  "cover": "",
+  "chapters": {
+    "13": {
+      "title": "13",
+      "volume": "",
+      "last_updated": "1740542700",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/PcMekuk"
+      }
+    },
+    "14": {
+      "title": "14",
+      "volume": "",
+      "last_updated": "1740542708",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/1q29rDy"
+      }
+    },
+    "15": {
+      "title": "15",
+      "volume": "",
+      "last_updated": "1740542715",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/MZ7xwCQ"
+      }
+    }
+  }
+}
