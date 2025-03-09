@@ -4,5 +4,14 @@
   "artist": "",
   "author": "",
   "cover": "",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "Ch 1 - Cruelty",
+      "volume": "",
+      "last_updated": "1741489854",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/hyouKsO"
+      }
+    }
+  }
 }
