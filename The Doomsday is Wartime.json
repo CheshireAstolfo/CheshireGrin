@@ -172,6 +172,22 @@
       "groups": {
         "I Am Nero Wolfe": "/proxy/api/imgchest/chapter/a8463g26v4x"
       }
+    },
+    "22": {
+      "title": "Chapter 21 - The Saint and the GateKeeper",
+      "volume": "",
+      "last_updated": "1765217668",
+      "groups": {
+        "I Am Nero Wolfe": "/proxy/api/imgur/chapter/w5oTUly"
+      }
+    },
+    "23": {
+      "title": "Chapter 22 - The Sun's Nest",
+      "volume": "",
+      "last_updated": "1765217711",
+      "groups": {
+        "I Am Nero Wolfe": "/proxy/api/imgchest/chapter/wl7lw92aq4x"
+      }
     }
   }
 }
