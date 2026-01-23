@@ -188,6 +188,22 @@
       "groups": {
         "I Am Nero Wolfe": "/proxy/api/imgchest/chapter/wl7lw92aq4x"
       }
+    },
+    "24": {
+      "title": "Chapter 23 - The Sun Rises, The Stars Die",
+      "volume": "",
+      "last_updated": "1769203108",
+      "groups": {
+        "I Am Nero Wolfe": "/proxy/api/imgur/chapter/OQZ1NrE"
+      }
+    },
+    "25": {
+      "title": "Chapter 24 - The Night Awakens",
+      "volume": "",
+      "last_updated": "1769203182",
+      "groups": {
+        "I Am Nero Wolfe": "/proxy/api/imgchest/chapter/qb4zmwjgvyj"
+      }
     }
   }
 }
