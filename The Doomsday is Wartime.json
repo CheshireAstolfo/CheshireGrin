@@ -244,6 +244,30 @@
       "groups": {
         "I Am Nero Wolfe": "/proxy/api/imgchest/chapter/a846mxkwg7x"
       }
+    },
+    "31": {
+      "title": "Chapter 30 - Big and Small",
+      "volume": "",
+      "last_updated": "1786468303",
+      "groups": {
+        "I Am Nero Wolfe": "/proxy/api/imgchest/chapter/agyv8lko948"
+      }
+    },
+    "32": {
+      "title": "Chapter 31 - Smoke Signal",
+      "volume": "",
+      "last_updated": "1786468346",
+      "groups": {
+        "I Am Nero Wolfe": "/proxy/api/imgchest/chapter/ne7bz3m8j75"
+      }
+    },
+    "33": {
+      "title": "Chapter 32 - Milk in a Pool of Blood",
+      "volume": "",
+      "last_updated": "1786468403",
+      "groups": {
+        "I Am Nero Wolfe": "/proxy/api/imgchest/chapter/5xy2vgkpz7l"
+      }
     }
   }
 }
